@@ -1,0 +1,20 @@
+---
+title: "New blog, who dis?"
+description: |
+  This is a blog post.
+author:
+  - name: Ian Brunjes
+date: 02-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Blogs are useful I guess.
+
+

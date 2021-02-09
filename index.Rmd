@@ -1,5 +1,6 @@
 ---
 title: "Ian Brunjes"
+image: "images/ifb_2020.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -14,4 +15,5 @@ output:
 site: distill::distill_website
 ---
  
-Please be patient, site under construction..
+Software developer//Student of environmental science.
+Applying technical solutions to solve environmental problems.
