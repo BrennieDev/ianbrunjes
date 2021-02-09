@@ -15,5 +15,5 @@ output:
 site: distill::distill_website
 ---
  
-Software developer//Student of environmental science.
-Applying technical solutions to solve environmental problems.
+Software Developer//Student of Environmental Science.\n
+Applying technical solutions toward environmental problems.

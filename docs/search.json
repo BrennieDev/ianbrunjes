@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nHere is some words about me. Insert resume here.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-09T00:52:13-08:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-09T00:52:14-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ian Brunjes",
+      "author": [],
+      "contents": "\r\n\r\n    \r\n    \r\n      \r\n        \r\n          \r\n            Ian Brunjes\r\n          \r\n          \r\n            \r\n              Software Developer//Student of Environmental Science. Applying technical solutions toward environmental problems.\r\n            \r\n            \r\n              Software Developer//Student of Environmental Science. Applying technical solutions toward environmental problems.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-02-09T00:52:16-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

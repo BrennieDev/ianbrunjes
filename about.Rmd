@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title: "About me"
 description: |
   Some additional details about the website
 ---
@@ -8,5 +8,5 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/ifb_2020.jpg){width=50%}
-Here is some words about me
+Here is some words about me.
+Insert resume here.
