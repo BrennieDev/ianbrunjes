@@ -3,17 +3,26 @@ title: "Ian Brunjes"
 image: "images/ifb_2020.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://linkedin.com/in/ianbrunjes"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/BrennieDev"
   - label: Email
-    url: "mailto:email@email.com"
-output:
-  postcards::jolla
+    url: "mailto:ianbrunjes@gmail.com.com"
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
  
-Software Developer//Student of Environmental Science.\n
-Applying technical solutions toward environmental problems.
+## Bio
+
+Software Engineer // Student of Environmental Science
+
+## Education
+
+**University of California, Santa Barbara** | Santa Barbara, CA
+
+Master's of Environmental Science & Management | Expected 2022
+
+**The University of Connecticut** | Storrs, CT
+
+B.S. in Computer Science | September 2010 - May 2014

@@ -1,5 +1,4 @@
 ---
-title: "Blog" 
-listing: posts 
-#use to add posts distill::create_post("welcome")
+title: "Blog"
+listing: posts
 ---

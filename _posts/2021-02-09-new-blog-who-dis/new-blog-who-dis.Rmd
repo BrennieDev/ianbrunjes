@@ -1,7 +1,7 @@
 ---
 title: "New blog, who dis?"
 description: |
-  This is a blog post.
+  Wow, such blog.
 author:
   - name: Ian Brunjes
 date: 02-09-2021
@@ -15,6 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Blogs are useful I guess.
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
