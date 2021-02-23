@@ -2,6 +2,6 @@
 title: "Resume"
 ---
 
-```{r echo = FALSE, message=FALSE, fig.align='center', fig.pos='H'}
+```{r echo = FALSE, message=FALSE, fig.align='center', fig.pos='H', fig.width=24, fig.height=16}
 knitr::include_graphics("./images/IFB_Resume_2021_BOI.pdf")
 ```

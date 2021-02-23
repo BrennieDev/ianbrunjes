@@ -105,7 +105,7 @@ word_counts %>%
 ```
 
 
-![image](../../images/word_plot.png)
+![](../../images/word_plot.png)
 
 Figure 1: Word cloud of the one hundred most frequently occurring words throughout all chapters of The Silmarillion.
 
@@ -133,7 +133,7 @@ ggplot(data = afinn_means, aes(x = chapter, y = mean_afinn, fill = mean_afinn)) 
 ``` 
 
 
-![image](../../images/sentiment_plot.png)
+![](../../images/sentiment_plot.png)
 
 Figure 2: Sentiment analysis giving a per chapter score of The Silmarillion using the AFINN sentiment lexicon.
 
