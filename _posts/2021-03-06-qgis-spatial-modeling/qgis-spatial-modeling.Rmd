@@ -1,0 +1,30 @@
+---
+title: "QGIS Spatial Modeling for Santa Barbara Wind Power"
+description: |
+  Using the QGIS graphical modeler to synthesize spatial data.
+author:
+  - name: Ian Brunjes
+date: 03-06-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+
+Spatial data including information on wind speed, fire vulnerability, and proximity to roads, airports, public land, and urban development was used to infer regions of Santa Barbara County that would be suitable for hosting a wind power site based on criteria for these factors.
+
+The model synthesizes these inputs to create a mask of suitable areas, whose size is calculated and ranked.
+
+## Model
+
+![](../../images/qgis_model.png)
+
+## Results
+
+![](../../images/qgis_results.png)
+

@@ -17,6 +17,8 @@ output:
 
 Software Engineer // Student of Environmental Science
 
+I am a Master's student studying Environmental Science and Management at UC Santa Barbara's Bren School. I previously worked as a software developer for companies in San Francisco, and am now pursuing career and research goals that join my technical skills with the challenges of synthesizing solutions to the world's many environmental problems.
+
 ## Education
 
 **University of California, Santa Barbara** | Santa Barbara, CA
